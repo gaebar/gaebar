@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Gaetano
 
-<!--
-**gaebar/gaebar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gaebar)](https://github.com/gaebar)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8508415/gaetano-barreca)](https://stackoverflow.com/users/8508415/gaetano-barreca)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-0F9D58?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gaebar1)](https://twitter.com/gaebar1)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanobarreca/)](https://www.linkedin.com/in/gaetanobarreca/)
 
-Here are some ideas to get you started:
+### Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaebar&show_icons=true&line_height=21&theme=react" alt="gaebari's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebar&theme=react&line_height=27&layout=compact" />
+</p>
