@@ -8,6 +8,6 @@
 ### Github Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaebar&show_icons=true&line_height=21&theme=react" alt="gaebar's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebar&theme=react&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaebar&show_icons=true&line_height=21&theme=react&cache_seconds=86400" alt="gaebar's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebar&theme=react&line_height=27&layout=compact&cache_seconds=86400" />
 </p>
