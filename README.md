@@ -1,9 +1,8 @@
 ## Hi there, I'm Gaetano
-
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gaebar)](https://github.com/gaebar)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8508415/gaetano-barreca)](https://stackoverflow.com/users/8508415/gaetano-barreca)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-0F9D58?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gaebar1)](https://twitter.com/gaebar1)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanobarreca/)](https://www.linkedin.com/in/gaetanobarreca/)
+<a href="https://github.com/gaebar" target="_blank"><img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github" alt="Github Badge"></a>
+<a href="https://stackoverflow.com/users/8508415/gaetano-barreca" target="_blank"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"></a>
+<a href="https://twitter.com/gaebar1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0F9D58?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
+<a href="https://www.linkedin.com/in/gaetanobarreca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
 
 ### Github Stats
 
