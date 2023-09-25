@@ -1,4 +1,6 @@
-## Hi there, I'm Gaetano
+# Hello! I'm Gaetano 👋
+I'm a self-taught Java Software Engineer with a passion for building scalable and efficient software.
+
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gaebar)](https://github.com/gaebar)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8508415/gaetano-barreca)](https://stackoverflow.com/users/8508415/gaetano-barreca)
