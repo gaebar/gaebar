@@ -3,9 +3,10 @@ I'm a self-taught Java Software Engineer with a passion for building scalable an
 
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gaebar)](https://github.com/gaebar)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanobarreca/)](https://www.linkedin.com/in/gaetanobarreca/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8508415/gaetano-barreca)](https://stackoverflow.com/users/8508415/gaetano-barreca)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-0F9D58?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gaebar1)](https://twitter.com/gaebar1)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanobarreca/)](https://www.linkedin.com/in/gaetanobarreca/)
+
 
 ### Github Stats
 
