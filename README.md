@@ -1,5 +1,5 @@
 # Hello! I'm Gaetano 👋
-I'm an experienced early-career software engineer with a background in archaeology and a passion for building scalable and efficient software.
+I'm an experienced early-career software engineer with a background in archaeology and a passion for building scalable and efficient applications.
 
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gaebar)](https://github.com/gaebar)
